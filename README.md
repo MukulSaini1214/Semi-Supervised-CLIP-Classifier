@@ -1,4 +1,4 @@
-# Semi-Supervised-CLIP-Classifier
+# Semi-Supervised Continual Learning
 
 A semi-supervised continual learning image classifier that leverages **CLIP** for feature extraction, **PCA** for dimensionality reduction, and **Logistic Regression** for classification. The model is trained sequentially across multiple datasets (D1–D20) and utilizes pseudo-labeling to learn from unlabeled data.
 
